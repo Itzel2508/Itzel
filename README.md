@@ -4,7 +4,7 @@
 ---
 ###👩‍💻 Sobre mi :
 - 📎 Estoy haciendo un curso de desarrollo de software en [parquesoft](https://parquesoft.com/ti/)
-- 🔮 Me podrías preguntar sobre **C++, Python**
+- 🔮 Me podrías preguntar sobre **C++, Python, JavaScript**
 - ✉️ Mi correo es **yuyis.itzel2508@gmail.com**
 - 🎈 soy de Villavicencio, Meta, Colombia
 
